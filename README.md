@@ -2,7 +2,7 @@
 ## Overview
 Interactive dashboard analyzing sales, profit, and quantity trends across time, product categories, and locations. Enables dynamic filtering and comparison using intuitive visualizations including line charts (weekly trends), bar charts (category performance), and dual-axis insights.
 
-<img width="1198" height="771" alt="image" src="https://github.com/user-attachments/assets/ddb71cd6-f39d-43a9-bfd5-ca28218f9e01" />
+<img width="1195" height="768" alt="image" src="https://github.com/user-attachments/assets/509f9198-52a6-4708-bea4-e9dbc52c7b53" />
 
 ## Key Features
 - Time Trends: Weekly sales & profit trends via line charts
